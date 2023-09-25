@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#imagen{
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+#links{
+    text-decoration: none;
+    color: white;
+}
